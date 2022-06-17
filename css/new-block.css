@@ -60,11 +60,11 @@
 }
 
 .top-slider__background-item--river-stone{
-    background-image: url("/assets/template/img/slider-bg.webp");
+    background-image: url("../assets/template/img/slider-bg.webp");
 }
 
 .top-slider__background-item--natural-stone{
-    background-image: url("/assets/template/img/sericit.webp");
+    background-image: url("../assets/template/img/sericit.webp");
 }
 
 .top-slider__title.top-slider__title--dual{

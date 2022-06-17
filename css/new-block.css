@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .top-slider__container{
     width: 100%;
     position: relative;
